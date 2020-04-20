@@ -5,7 +5,7 @@ if(age > 12 && age < 20) {
   return(0);
 }
 }
-basicTeenager(13);
+
 
 
 function teenager(age) {
