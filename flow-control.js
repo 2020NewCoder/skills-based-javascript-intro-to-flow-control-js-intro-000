@@ -5,7 +5,7 @@ if(age > 12 && age < 20) {
   console.log("undefined");
 }
 }
-basicTeenager(13);
+
 
 function teenager(age) {
 if(age >12 && age <20){
