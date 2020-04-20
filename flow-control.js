@@ -5,17 +5,17 @@ if(age > 12 && age < 20) {
   return(0);
 }
 }
-basicTeenager();
+
 
 
 function teenager(age) {
-if(age >12 && <20){
-  console.log(`"You are a teenager"`);
+if(age >12 && age <20){
+  return(`"You are a teenager!"`);
 }else {
-  console.log(`"you are not a teenager"`);
+  return(`"you are not a teenager"`);
 }
 }
-teenager();
+
 
 function ageChecker(age) {
   if (age >12 || <20){
