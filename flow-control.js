@@ -36,7 +36,7 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
-if(age >12 && <20){
+if(age >12 && age <20){
   return("You are a teenager");
 }else {
   return("You have an age");
